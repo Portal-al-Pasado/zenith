@@ -498,32 +498,6 @@
           ],
           "_name": "extForm1",
           "_anchor": "extForm1-a"
-        },
-        {
-          "_params": {
-            "showText": true,
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "bgColor": "#fff"
-          },
-          "media": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/image1.jpg",
-              "width": 1400
-            },
-            "video": {
-              "src": "file:///C:/PortalalPasado/Videos/Anotacion.mp4",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image2",
-          "_anchor": "image2-d"
         }
       ]
     }
